@@ -1,4 +1,4 @@
-# Week4 Course Project for Courser Course Getting and Cleaning Data
+# Getting and Ceaning Data --- Week4 Course Project
 ## Instructions
 1. Makre sure you can run R command in your command line.
 2. Clone the project to your local disk
