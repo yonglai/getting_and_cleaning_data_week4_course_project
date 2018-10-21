@@ -15,3 +15,4 @@
 6. Use the actvity and feature labels read from step 2 to change the column names of the dataframe resulting from step 4.
 7. Use aggregate to group the dataframe by subject and actvity and calculate the mean for each measurement.
 8. Write the result from step 7 to tidy_data.txt.
+
